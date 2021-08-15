@@ -1,5 +1,3 @@
-package homework
-
 fun main() {
 
     println(1559.isPrime())
