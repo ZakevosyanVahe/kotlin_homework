@@ -1,5 +1,3 @@
-package homework
-
 fun main() {
     print(35.isCoprimeTo(63))
 }
