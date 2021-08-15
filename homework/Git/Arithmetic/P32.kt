@@ -1,5 +1,3 @@
-package homework
-
 fun main() {
     println(gcd(18,15))
 }
