@@ -1,5 +1,3 @@
-package homework
-
 fun Int.primeFactors(): List<Int>{
     val list = mutableListOf<Int>()
     var i: Int = 2
