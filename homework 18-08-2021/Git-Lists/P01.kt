@@ -1,5 +1,3 @@
-package homework2
-
 fun<T> last(list: List<T>) : T{
     return list.last()
 }
