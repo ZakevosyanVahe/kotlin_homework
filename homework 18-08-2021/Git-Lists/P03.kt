@@ -1,5 +1,3 @@
-package homework2
-
 fun nth(x: Int, list: List<Int>){
     println(list.lastIndexOf(x))
 }
